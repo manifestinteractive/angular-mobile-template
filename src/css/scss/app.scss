@@ -1,0 +1,10 @@
+@import "variables";
+@import "bourbon/bourbon";
+@import "animate/animate";
+@import "reset";
+
+html, body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
